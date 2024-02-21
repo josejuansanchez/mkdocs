@@ -3,6 +3,5 @@ site_name: IAW
 nav:
     - Principal: index.md
     - Acerca de: about.md
-    - Blog: blog.md
 
 theme: material
